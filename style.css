@@ -1,5 +1,5 @@
 /*
-  style.css
+  style.css 
   Aquí escribiremos todo el código para darle estilo a nuestra página.
 */
 
@@ -7,7 +7,7 @@
 * {
     box-sizing: border-box; /* Hace que el padding y el borde se incluyan en el ancho total del elemento */
 }
-
+ 
 body {
     font-family: Arial, sans-serif; /* Establecemos una fuente base para todo el documento */
     margin: 0;
